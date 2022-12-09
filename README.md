@@ -6,7 +6,7 @@
 
 💞️ I’m looking to collaborate on anything useful
 
-📫 How to reach me egetelli@hotmail.com - [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ege-telli-687828236/)
+📫 How to reach me egetelli@hotmail.com - [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ege-telli-687828236/)
 
 🛠️ Languages and Tools:
 <div>
