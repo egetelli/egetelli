@@ -1,3 +1,7 @@
+<style>
+  background-color: black;
+</style>
+
 👋 Hi, I’m @egetelli
 
 👀 I’m interested in computer-engineering, software architecture
