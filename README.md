@@ -27,4 +27,4 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=egetelli)](https://git.io/streak-stats)
 
-[![Ege's GitHub stats](https://github-readme-stats.vercel.app/api?username=egetelli)](https://github.com/egetelli/github-readme-stats)
+[![Ege's GitHub stats](https://github-readme-stats.vercel.app/api?username=egetelli)](https://github.com/anuraghazra/github-readme-stats)
