@@ -1,12 +1,8 @@
-<style>
-  background-color: black;
-</style>
-
 👋 Hi, I’m @egetelli
 
 👀 I’m interested in computer-engineering, software architecture
 
-🌱 I’m currently learning Rust,TailwindCSS,React and Node.js Languages
+🌱 I’m currently learning HTML,CSS,Rust,TailwindCSS,React and Node.js Languages
 
 💞️ I’m looking to collaborate on anything useful
 
