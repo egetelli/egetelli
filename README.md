@@ -2,7 +2,7 @@
 
 👀 I’m interested in computer-engineering, software architecture
 
-🌱 I’m currently learning HTML,CSS,Rust,TailwindCSS,React and Node.js Languages
+🌱 I’m currently learning HTML,CSS,React,Flutter Languages
 
 💞️ I’m looking to collaborate on anything useful
 
