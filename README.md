@@ -1,13 +1,13 @@
-👋 Hi, I’m @egetelli
+👋 Hi, I’m @egetelli.
 
-👀 I’m interested in front-end and mobile application development
+👀 I’m interested in front-end and mobile application development.
 
 :muscle: I'm open to use all of new technologies-languages and I'm a good researcher.
 
 
-🌱 I’m currently learning HTML,CSS,React,Flutter Languages
+🌱 I’m currently learning HTML,CSS,React,Flutter Languages.
 
-💞️ I’m looking to collaborate on anything useful
+💞️ I’m looking to collaborate on anything useful.
 
 📫 How to reach me egetelli@hotmail.com - [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ege-telli-687828236/)
 
