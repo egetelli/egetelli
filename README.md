@@ -1,6 +1,9 @@
 👋 Hi, I’m @egetelli
 
-👀 I’m interested in computer-engineering, software architecture
+👀 I’m interested in front-end and mobile application development
+
+![icons8-crystal-ball-48](https://user-images.githubusercontent.com/83495425/218448204-8eb85e6f-1e48-4992-b22e-288f52ad21e9.png)
+
 
 🌱 I’m currently learning HTML,CSS,React,Flutter Languages
 
