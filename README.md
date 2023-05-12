@@ -5,7 +5,7 @@
 :muscle: I'm open to use all of new technologies-languages and I'm a good researcher.
 
 
-🌱 I’m currently learning HTML,CSS,Javascript,React,Flutter Languages.
+🌱 I’m currently learning XAML, WPF, MVVM, LabView.
 
 💞️ I’m looking to collaborate on anything useful.
 
