@@ -5,7 +5,7 @@
 :muscle: I'm open to use all of new technologies-languages and I'm a good researcher.
 
 
-🌱 I’m currently learning .NET, React and Data Science.
+🌱 I’m currently learning .NET, React and Data Analysis tools.
 
 💞️ I’m looking to collaborate on anything useful.
 
