@@ -5,7 +5,7 @@
 :muscle: I'm open to use all of new technologies-languages and I'm a good researcher.
 
 
-🌱 I’m currently learning .NET, React and Data Analysis tools.
+🌱 I’m currently improving myself at C#(.NET), Frontend Tools(HTML, CSS, Javascript, React) and Data Analysis Tools(R, Tableau, Stylesheets).
 
 💞️ I’m looking to collaborate on anything useful.
 
