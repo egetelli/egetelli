@@ -30,5 +30,8 @@
 </div>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=egetelli&theme=react)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=egetelli&layout=donut)](https://github.com/egetelli/github-readme-stats)
 <hr />
 <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=egetelli&theme=react&line_height=40&hide=css"/> </a>
+
+
