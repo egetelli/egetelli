@@ -25,7 +25,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="MicrosoftSQLServer" alt="MicrosoftSQLServer" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=egetelli)](https://git.io/streak-stats)
 
 </div>
 
