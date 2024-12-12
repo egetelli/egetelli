@@ -1,6 +1,6 @@
 👋 Hi, I’m @egetelli.
 
-👀 I’m interested in front-end and mobile application development.
+👀 I’m interested in full-stack development.
 
 :muscle: I'm open to use all of new technologies-languages and I'm a good researcher.
 
