@@ -5,7 +5,7 @@
 :muscle: I'm open to use all of new technologies-languages and I'm a good researcher.
 
 
-🌱 I’m currently improving myself at C#(.NET), Frontend Tools(HTML, CSS, Javascript, React) and Data Analysis Tools(R, Tableau, Stylesheets).
+🌱 I’m currently improving myself at C#(.NET), Frontend Tools(HTML, CSS, Javascript, Angular) and Data Analysis Tools(R, Tableau, Stylesheets).
 
 💞️ I’m looking to collaborate on anything useful.
 
@@ -13,7 +13,7 @@
 
 🛠️ Languages and Tools:
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="[https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg](https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg)" title="Angular" alt="Angular" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="CSharp" alt="CSharp" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
