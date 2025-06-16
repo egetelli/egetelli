@@ -30,7 +30,8 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=egetelli&theme=react)](https://git.io/streak-stats)
 
-https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif
+![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+
 <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=egetelli&theme=react&line_height=40&hide=css"/> </a>
 
 
