@@ -5,7 +5,10 @@
 :muscle: I'm open to use all of new technologies-languages and I'm a good researcher.
 
 
-🌱 I’m currently improving myself at C#(.NET), Frontend Tools(HTML, CSS, Javascript, Angular) and Data Tools(SQL, Python, Stylesheets).
+🌱 I’m currently improving my skills in:
+- **Backend:** C# (.NET), ASP.NET MVC, RESTful APIs  
+- **Frontend:** Angular, TypeScript, HTML, CSS, JavaScript 
+- **Databases & Tools:** PostgreSQL, Microsoft SQL Server, Entity Framework, LINQ, StyleSheets
 
 💞️ I’m looking to collaborate on anything useful.
 
