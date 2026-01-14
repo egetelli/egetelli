@@ -40,4 +40,6 @@
 
 <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=egetelli&theme=react&line_height=40&hide=css"/> </a>
 
+[![Ege's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=egetelli&bg_color=000000&color=ffffff&line=ffffff&point=0a91b1&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
