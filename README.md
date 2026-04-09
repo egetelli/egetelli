@@ -5,11 +5,12 @@
 :muscle: I'm open to use all of new technologies-languages and I'm a good researcher.
 
 
-💻 Core Competencies & Continuous Development:
-- **Backend:** C# (.NET), ASP.NET MVC, RESTful APIs  
-- **Frontend:** Angular, TypeScript, HTML, CSS, JavaScript 
-- **Databases & Tools:** PostgreSQL, Microsoft SQL Server, Entity Framework, LINQ, StyleSheets
-- **Other Tools:** Git, Jira
+💻 Core Competencies & Tech Stack:
+- **Backend & Architecture:** C# (.NET Core / 8+), Node.js, Express.js, ASP.NET Web API, Onion Architecture, Modular Monolith
+- **Frontend Ecosystem:** Angular, TypeScript, RxJS, Angular Signals, HTML5, CSS3, JavaScript (Modern SaaS UI/UX)
+- **Real-Time & Messaging:** SignalR, WebSockets, RabbitMQ, Redis
+- **Databases & ORM:** PostgreSQL, Microsoft SQL Server, Entity Framework Core, LINQ
+- **Tools & DevOps:** Git, Docker, Jira
   
 💞️ I’m looking to collaborate on anything useful.
 
