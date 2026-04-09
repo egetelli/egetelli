@@ -7,7 +7,7 @@
 
 💻 Core Competencies & Tech Stack:
 - **Backend & Architecture:** C# (.NET Core / 8+), Node.js, Express.js, ASP.NET Web API, Onion Architecture, Modular Monolith
-- **Frontend Ecosystem:** Angular, TypeScript, RxJS, Angular Signals, HTML5, CSS3, JavaScript (Modern SaaS UI/UX)
+- **Frontend Ecosystem:** Angular, TypeScript, RxJS, HTML5, CSS3, JavaScript (Modern SaaS UI/UX)
 - **Real-Time & Messaging:** SignalR, WebSockets, RabbitMQ, Redis
 - **Databases & ORM:** PostgreSQL, Microsoft SQL Server, Entity Framework Core, LINQ
 - **Tools & DevOps:** Git, Docker, Jira
